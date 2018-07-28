@@ -1,7 +1,7 @@
 # themesDir = "../.."
 publishDir = "../"
 theme = "hugo-smorg"
-baseURL = "http://ospg.github.io/"
+baseURL = "https://ospg.github.io/"
 languageCode = "en-us"
 title = "OSPG"
 copyright = "&copy; OSPG"
