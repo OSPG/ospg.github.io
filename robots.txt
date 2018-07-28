@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /secretloginpage
+
+Sitemap: http://ospg.github.io/sitemap.xml

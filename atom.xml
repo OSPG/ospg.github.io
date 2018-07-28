@@ -1,0 +1,12 @@
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>OSPG</title>
+	<link href="http://ospg.github.io/atom.xml" rel="self"/>
+	<link href="http://ospg.github.io/"/>
+	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
+	<id>http://ospg.github.io/</id>
+	<author>
+		<name>OSPG</name>
+		<email>thisemaildoesnotexist@www.example.com</email>
+	</author>
+</feed>
