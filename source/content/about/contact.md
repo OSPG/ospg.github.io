@@ -1,5 +1,5 @@
 ---
-title: "Contacti Us"
+title: "Contact Us"
 date: 2018-07-29T11:52:13+02:00
 draft: false
 layout: subsection
