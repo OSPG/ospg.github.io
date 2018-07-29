@@ -30,7 +30,7 @@ fullname = "Open Source Programming Group"
 description = "OSPG website"
 logotype = "<span class=\"has-text-weight-bold\">OSPG</span>"
 footer = " "
-subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/OSPG/ospg.github.io\">github.com/OSPG/ospg.github.io</a>"
+subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/OSPG\">github.com/OSPG</a>"
 
   [params.publisher]
   type = "Organization"
