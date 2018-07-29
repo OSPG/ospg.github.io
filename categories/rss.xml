@@ -16,9 +16,18 @@
     <item>
       <title>Go</title>
       <link>https://ospg.github.io/categories/go/</link>
-      <pubDate>Sun, 29 Jul 2018 12:16:37 +0200</pubDate>
+      <pubDate>Sun, 29 Jul 2018 18:45:22 +0200</pubDate>
       <author>thisemaildoesnotexist@www.example.com (OSPG)</author>
       <guid>https://ospg.github.io/categories/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://ospg.github.io/categories/security/</link>
+      <pubDate>Sun, 29 Jul 2018 18:45:22 +0200</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (OSPG)</author>
+      <guid>https://ospg.github.io/categories/security/</guid>
       <description></description>
     </item>
     
