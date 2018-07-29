@@ -7,7 +7,7 @@ tags: ["go", "security", "hardening"]
 layout: subsection
 slug: sv2
 draft: false 
-weight: 201
+weight: 202
 ---
 
 #### *Project URL*: [github.com/OSPG/sv2](https://github.com/OSPG/sv2)

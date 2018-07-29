@@ -9,19 +9,10 @@
     <managingEditor>thisemaildoesnotexist@www.example.com (OSPG)</managingEditor>
     <webMaster>thisemaildoesnotexist@www.example.com (OSPG)</webMaster>
     <copyright>&amp;copy; OSPG</copyright>
-    <lastBuildDate>Sun, 29 Jul 2018 18:45:22 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jul 2018 12:16:37 +0200</lastBuildDate>
     
 	<atom:link href="https://ospg.github.io/categories/go/rss.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Sv2</title>
-      <link>https://ospg.github.io/project/sv2/</link>
-      <pubDate>Sun, 29 Jul 2018 18:45:22 +0200</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (OSPG)</author>
-      <guid>https://ospg.github.io/project/sv2/</guid>
-      <description>Project URL: github.com/OSPG/sv2 Language: Go Summary: An utility to improve the security of a system. SV2 analyzes the current configurations of the system and provides recommendations to harden it against possible attackers.</description>
-    </item>
     
     <item>
       <title>Godedupe</title>
@@ -30,6 +21,15 @@
       <author>thisemaildoesnotexist@www.example.com (OSPG)</author>
       <guid>https://ospg.github.io/project/godedupe/</guid>
       <description>Project URL: github.com/OSPG/godedupe Language: Go Summary: An utility to find duplicated files. Godedupe finds duplicated files like fdupes does. Unlike fdupes, we focus on speed and features.</description>
+    </item>
+    
+    <item>
+      <title>Sv2</title>
+      <link>https://ospg.github.io/project/sv2/</link>
+      <pubDate>Sun, 29 Jul 2018 18:45:22 +0200</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (OSPG)</author>
+      <guid>https://ospg.github.io/project/sv2/</guid>
+      <description>Project URL: github.com/OSPG/sv2 Language: Go Summary: An utility to improve the security of a system. SV2 analyzes the current configurations of the system and provides recommendations to harden it against possible attackers.</description>
     </item>
     
   </channel>
