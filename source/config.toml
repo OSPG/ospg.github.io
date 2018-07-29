@@ -71,7 +71,7 @@ subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/OSPG\"
 [mediaTypes]
 
   [mediaTypes."application/atom"]
-  suffix = "xml"
+  suffixex = ["xml"]
 
 [outputFormats]
 
