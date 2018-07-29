@@ -27,15 +27,15 @@ debug = false
 #cssPath = "css/smorg.min.css"
 only_feed_summaries = true
 fullname = "Open Source Programming Group"
-description = "160 characters or less describing you or your organization or your  site's purpose."
+description = "OSPG website"
 logotype = "<span class=\"has-text-weight-bold\">OSPG</span>"
-footer = "An open source theme by <a href=\"https://mikewatkins.ca/\">Mike Watkins</a>"
-subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/solutionroute/hugo-smorg\">github.com/solutionroute/hugo-smorg</a>"
+footer = " "
+subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/OSPG/ospg.github.io\">github.com/OSPG/ospg.github.io</a>"
 
   [params.publisher]
   type = "Organization"
   name = "OSPG"
-  logo = "url to logo image"
+  logo = "https://avatars3.githubusercontent.com/u/23155720?s=200&v=4"
 
 [menu]
 
@@ -62,18 +62,6 @@ subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/soluti
   url = "project/hugo-smorg/"
   parent = "project"
   weight = 201.0
-
-  [[menu.sectionmenu]]
-  name = "Blorg Bread Machine"
-  url = "project/blorg-bread-machine/"
-  parent = "project"
-  weight = 202.0
-
-  [[menu.sectionmenu]]
-  name = "XYZ-1000"
-  url = "project/xyz-1000/"
-  parent = "project"
-  weight = 203.0
 
   [[menu.sectionmenu]]
   name = "Blog"
