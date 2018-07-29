@@ -63,10 +63,10 @@ subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/OSPG/o
   parent = "project"
   weight = 201.0
 
-  [[menu.sectionmenu]]
-  name = "Blog"
-  url = "post/"
-  weight = 30.0
+#  [[menu.sectionmenu]]
+#  name = "Blog"
+#  url = "post/"
+#  weight = 30.0
 
 [mediaTypes]
 
