@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ospg.github.io/project/godedupe/</loc>
+    <lastmod>2018-07-29T12:16:37+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ospg.github.io/about/contact/</loc>
     <lastmod>2018-07-29T11:52:13+02:00</lastmod>
   </url>
@@ -19,13 +24,44 @@
   </url>
   
   <url>
+    <loc>https://ospg.github.io/tags/deduplication/</loc>
+    <lastmod>2018-07-29T12:16:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ospg.github.io/tags/go/</loc>
+    <lastmod>2018-07-29T12:16:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ospg.github.io/categories/go/</loc>
+    <lastmod>2018-07-29T12:16:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ospg.github.io/</loc>
-    <lastmod>2018-07-29T11:52:13+02:00</lastmod>
+    <lastmod>2018-07-29T12:16:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ospg.github.io/project/</loc>
+    <lastmod>2018-07-29T12:16:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ospg.github.io/tags/</loc>
+    <lastmod>2018-07-29T12:16:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ospg.github.io/categories/utilities/</loc>
+    <lastmod>2018-07-29T12:16:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   

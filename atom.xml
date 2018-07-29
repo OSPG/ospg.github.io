@@ -4,12 +4,23 @@
 	<link href="https://ospg.github.io/atom.xml" rel="self"/>
 	<link href="https://ospg.github.io/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2018-07-29T11:52:13+02:00</updated>
+	<updated>2018-07-29T12:16:37+02:00</updated>
 	<id>https://ospg.github.io/</id>
 	<author>
 		<name>OSPG</name>
 		<email>thisemaildoesnotexist@www.example.com</email>
 	</author>
+  <entry>
+	<title>Godedupe</title>
+    <link href="https://ospg.github.io/project/godedupe/"/>
+	<id>https://ospg.github.io/project/godedupe/</id>
+    <published>2018-07-29T12:16:37+02:00</published>
+    <updated>2018-07-29T12:16:37+02:00</updated>
+	<content type="html"><![CDATA[
+Project URL: github.com/OSPG/godedupe Language: Go Summary: An utility to find duplicated files. Godedupe finds duplicated files like fdupes does. Unlike fdupes, we focus on speed and features.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>Contact Us</title>
     <link href="https://ospg.github.io/about/contact/"/>

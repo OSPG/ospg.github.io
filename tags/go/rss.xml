@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OSPG</title>
-    <link>https://ospg.github.io/</link>
-    <description>Recent content on OSPG</description>
+    <title>Go on OSPG</title>
+    <link>https://ospg.github.io/tags/go/</link>
+    <description>Recent content in Go on OSPG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>thisemaildoesnotexist@www.example.com (OSPG)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>&amp;copy; OSPG</copyright>
     <lastBuildDate>Sun, 29 Jul 2018 12:16:37 +0200</lastBuildDate>
     
-	<atom:link href="https://ospg.github.io/rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ospg.github.io/tags/go/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
       <author>thisemaildoesnotexist@www.example.com (OSPG)</author>
       <guid>https://ospg.github.io/project/godedupe/</guid>
       <description>Project URL: github.com/OSPG/godedupe Language: Go Summary: An utility to find duplicated files. Godedupe finds duplicated files like fdupes does. Unlike fdupes, we focus on speed and features.</description>
-    </item>
-    
-    <item>
-      <title>Contact Us</title>
-      <link>https://ospg.github.io/about/contact/</link>
-      <pubDate>Sun, 29 Jul 2018 11:52:13 +0200</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (OSPG)</author>
-      <guid>https://ospg.github.io/about/contact/</guid>
-      <description>If you have any questions regarding this site or the organization you can open an issue on https://github.com/OSPG/ospg.github.io.
-For more informal questions there is an IRC server at mumei.</description>
     </item>
     
   </channel>

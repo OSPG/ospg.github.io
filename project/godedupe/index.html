@@ -2,15 +2,13 @@
 <html lang="en-us">
 <head>
 	<title>
-		Tags - OSPG
+		Godedupe - OSPG
 	</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index,follow">
 	<base href="https://ospg.github.io/">
-	<link rel="canonical" href="https://ospg.github.io/tags/"><meta name="description" content="OSPG website"> 
-	<link rel="alternate" type="application/rss&#43;xml" 
-	      href="https://ospg.github.io/tags/rss.xml" title="OSPG">
+	<link rel="canonical" href="https://ospg.github.io/project/godedupe/"><meta name="description" content="OSPG website">
 	<link rel="preload" href="https://ospg.github.io/css/smorg.css" as="style">
 	<link rel="stylesheet" href="https://ospg.github.io/css/smorg.css">
 	<meta name="generator" content="Hugo 0.45.1" />
@@ -54,46 +52,58 @@
 			</div>
 		</div>
 	</nav>
-<section class="section" itemscope itemtype="http://schema.org/AboutPage">
+
+<section class="section" itemscope itemtype="http://schema.org/WebPage">
 	<div class="container">
 		<div class="columns">
 			<div class="column is-8 is-offset-2">
+					
+
+
+<nav class="breadcrumb" aria-label="breadcrumbs">
+	<ul>
+
+		<li >
+			<a href="/project/">Projects</a>
+		</li>
+			<li class="is-active">
+				<a href="/project/godedupe/" 
+					aria-current="page">Godedupe</a>
+			</li>
+	</ul>
+</nav>
+
 				<article class="content">
-				<h1 class="title">Tags</h1>
-				
-				<article>
-    <header>
-		<h1 class="title is-4"><a href="https://ospg.github.io/tags/deduplication/">Deduplication</a> </h1>
-		<p class="subtitle has-text-grey-light is-6">
-		
-<time datetime="2018-07-29">29 July 2018</time>
-</p>
-    </header>
-	 
-  <footer>
-  </footer>
-</article>
-<br>
+					<h1 class="title is-3">Godedupe</h1>
 
-				
-				<article>
-    <header>
-		<h1 class="title is-4"><a href="https://ospg.github.io/tags/go/">Go</a> </h1>
-		<p class="subtitle has-text-grey-light is-6">
-		
-<time datetime="2018-07-29">29 July 2018</time>
-</p>
-    </header>
-	 
-  <footer>
-  </footer>
-</article>
-<br>
 
-				
+<h4 id="project-url-github-com-ospg-godedupe-https-github-com-ospg-godedupe"><em>Project URL</em>: <a href="https://github.com/OSPG/godedupe">github.com/OSPG/godedupe</a></h4>
+
+<h4 id="language-go"><em>Language</em>: Go</h4>
+
+<h4 id="summary-an-utility-to-find-duplicated-files"><em>Summary</em>: An utility to find duplicated files.</h4>
+
+<hr />
+
+<p>Godedupe finds duplicated files like fdupes does. Unlike fdupes, we focus on
+speed and features. It also have sane defaults which should make it easier to
+use than fdupes.</p>
+
+<p>It have been tested to work on Linux and Windows.</p>
+
+<p>The algoirhtm consist of three phases.</p>
+
+<ul>
+<li>First it checks the file size of the files.</li>
+<li>For files that have the same size, the checksum of a first block (1024B) is
+used</li>
+<li>For files that have the same checksum, it generate a checksum of all the
+file which</li>
+</ul>
+
+<p>If two files have the same checksum, they are considered to be the same file.</p>
+
 				</article>
-				
-
 			</div>
 		</div>
 	</div>
@@ -123,8 +133,8 @@
 { 
 	"@context": "http://schema.org", 
 	"@type": "WebPage",
-	"@id": "https://ospg.github.io/tags/",
-	"name": "Tags",
+	"@id": "https://ospg.github.io/project/godedupe/",
+	"name": "Godedupe",
 }
 </script>
 
